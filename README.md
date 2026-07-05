@@ -44,7 +44,7 @@
 
 # Литература:
 
-1. [Лог2(n)](https://github.com/mshunko101/science/tree/main/1.%20Диссертация/ПРИЛОЖЕНИЕ%20А)
+1. [log2(n)](https://github.com/mshunko101/science/tree/main/1.%20Диссертация/ПРИЛОЖЕНИЕ%20А) собираем все же 118 бит в секунду.
 
 <p align="center">
 
