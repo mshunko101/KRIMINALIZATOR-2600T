@@ -43,3 +43,8 @@
 # Литература:
 
 1. [Лог2(n)](https://github.com/mshunko101/science/tree/main/1.%20Диссертация/ПРИЛОЖЕНИЕ%20А)
+
+
+[![Немного о будущем проекта](https://img.youtube.com/vi/GchJ3FrmMvo/0.jpg)](https://youtu.be/GchJ3FrmMvo?list=RDGchJ3FrmMvo)
+
+
