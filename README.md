@@ -8,8 +8,6 @@
 # Описание сенсора.
 <p align="center">
  <img src="media/sensor_b.JPG" width="300"/>
-</p>
-<p align="center">
  <img src="media/sensor_b_in_work.JPG" width="300"/>
 </p>
 
