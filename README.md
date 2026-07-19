@@ -281,9 +281,12 @@ $$
 
 # Литература:
 1. [log2(n)](https://github.com/mshunko101/science/tree/main/1.%20Диссертация/ПРИЛОЖЕНИЕ%20А) собираем все же 118 бит в секунду.
+2. [Реальная наука](https://github.com/mshunko101/science/tree/9c6c59a638e2b9354c878e8b651efd4c82b4ce72/2.%20%D0%9C%D0%BE%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F/%D0%9F%D0%9E%D0%A0%D0%9E%D0%96%D0%94%D0%95%D0%9D%D0%98%D0%95)
 <p align="center">
  
   [![Немного о будущем проекта](https://img.youtube.com/vi/GchJ3FrmMvo/0.jpg)](https://youtu.be/GchJ3FrmMvo?list=RDGchJ3FrmMvo)
   
 </p>
+
+
  
